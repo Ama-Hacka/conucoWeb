@@ -1,5 +1,5 @@
 // Replace with the real WhatsApp group invite link.
-const WHATSAPP_LINK = "https://chat.whatsapp.com/your-group-link";
+const WHATSAPP_LINK = "https://chat.whatsapp.com/DVJNct6dLszEWxeUEzNUy9";
 
 document.documentElement.classList.add("js");
 
